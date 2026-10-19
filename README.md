@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Your Name</h1>
-<h3 align="center">A passionate Full-Stack Developer & Student from ...</h3>
+<h1 align="center">Hi 👋, I'm Charles Bernarte</h1>
+<h3 align="center">A passionate Full-Stack Developer & Student from La Verdad Christian College</h3>
 
 <!-- Typing SVG for dynamic text animation -->
 <p align="center">
