@@ -19,3 +19,10 @@
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
 </p>
+
+## 🧭 Executive Summary
+Software engineering student and developer passionate about building clean, responsive, and secure web applications. Experienced in designing full-stack systems, managing databases, and exploring modern frontend and backend architectures.
+
+### 🧰 Tech Stack & Tools
+
+[![Skills](https://skillicons.dev/icons?i=html,css,javascript,ts,react,nextjs,bootstrap,tailwind,python,django,git,github,vscode,figma,macos)]()
