@@ -21,7 +21,7 @@
 </p>
 
 ## 🧭 Executive Summary
-Software engineering student and developer passionate about building clean, responsive, and secure web applications. Experienced in designing full-stack systems, managing databases, and exploring modern frontend and backend architectures.
+BS Information System student and developer of La Verdad Christian College, Inc. passionate about building clean, responsive, and secure web applications. Experienced in designing full-stack systems, managing databases, and exploring modern frontend and backend architectures.
 
 ### 🧰 Tech Stack & Tools
 
