@@ -25,4 +25,4 @@ BS Information System student and developer of La Verdad Christian College, Inc.
 
 ### 🧰 Tech Stack & Tools
 
-[![Skills](https://skillicons.dev/icons?i=html,css,Java,javascript,bootstrap,python,git,github,vscode,macos)]()
+[![Skills](https://skillicons.dev/icons?i=html,css,java,javascript,bootstrap,python,git,github,vscode,macos)]()
