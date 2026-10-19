@@ -16,7 +16,7 @@
     <img src="https://img.shields.io/badge/Youtube-0077B5?style=for-the-badge&logo=Youtube&logoColor=white" />
   </a>
   <a href="https://www.facebook.com/CharlesBernarte1">
-    <img src="https://img.shields.io/badge/Facebook-D14836?style=for-the-badge&logo=Facebok&logoColor=white" />
+    <img src="https://img.shields.io/badge/Facebook-D14836?style=for-the-badge&logo=Facebook&logoColor=white" />
   </a>
 </p>
 
