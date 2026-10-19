@@ -9,14 +9,14 @@
 </p>
 
 <p align="center">
-  <a href="https://your-portfolio-link.com" target="_blank">
+  <a href="https://charlesbernarte.netlify.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=about.me&logoColor=white" />
   </a>
-  <a href="https://linkedin.com/in/your-profile" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  <a href="https://www.youtube.com/@SiopaosBernarte" target="_blank">
+    <img src="https://img.shields.io/badge/Youtube-0077B5?style=for-the-badge&logo=Youtube&logoColor=white" />
   </a>
-  <a href="mailto:your-email@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  <a href="https://www.facebook.com/CharlesBernarte1">
+    <img src="https://img.shields.io/badge/Facebook-D14836?style=for-the-badge&logo=Facebok&logoColor=white" />
   </a>
 </p>
 
