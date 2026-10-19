@@ -25,4 +25,4 @@ Software engineering student and developer passionate about building clean, resp
 
 ### 🧰 Tech Stack & Tools
 
-[![Skills](https://skillicons.dev/icons?i=html,css,javascript,ts,react,nextjs,bootstrap,tailwind,python,django,git,github,vscode,figma,macos)]()
+[![Skills](https://skillicons.dev/icons?i=html,css,javascript,bootstrap,python,git,github,vscode,macos)]()
